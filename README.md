@@ -4,4 +4,4 @@ public часть проектного задания
 
 [Blog](https://pepasso.github.io/Blog/public/)
 
-![Иллюстрация к проекту](https://github.com/Pepasso/Blog/blob/main/Blog.jpg)
+![Иллюстрация к проекту](https://pepasso.github.io/Blog/Blog.jpg)
